@@ -1,0 +1,12 @@
+body{
+background-color: cadetblue;
+}
+
+.bloque{
+    margin: 5%;
+}
+
+.form-group label{
+    display:none;
+
+}
